@@ -1,4 +1,4 @@
-/package src.stars;
+package src.stars;
 
 public class stars {
 
